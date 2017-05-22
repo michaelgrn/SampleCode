@@ -1,6 +1,6 @@
 README
 
-MyTunes:
+MyTunes
 
 Overview: This is a .wav player with a wide range of functionality. It has three different views view a tabbed pane approach,
 Max, mid, and min. Keeps track of the number of times each of the songs is played and implements a heat map in the max view.
