@@ -2,6 +2,9 @@
  * Simple node class for single linked list 
  * @author CS221 
  *
+ * Added functionality for a doubly linked list
+ * @author Michael Green
+ *
  * @param <T> generic type of elements stored in a node
  */
 public class LinearNode<T>
