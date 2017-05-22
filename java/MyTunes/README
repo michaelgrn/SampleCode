@@ -18,6 +18,7 @@ PlayList.java - Heart of the program, holds the list of Song.java, editable
 Song.java - An object of a song, containing information for each .wav
 images - folder that contains the icon .gifs for the GUI
 sounds - folder that contains all the .wav samples
+playlist.txt - sample playlist
 
 Compilation:
 
