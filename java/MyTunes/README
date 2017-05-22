@@ -21,11 +21,11 @@ sounds - folder that contains all the .wav samples
 
 Compilation:
 
-Make sure all the files and folders are in the same folder before compiling the MyTunesDriver.java like
+Make sure all the files and folders are in the same folder before compiling the MyTunesDriver.java like:
 
 javac MyTunesDriver.java
 
-Then run the program by typing
+Then run the program by typing:
 
 java MyTunesDriver
 
@@ -36,8 +36,7 @@ There are a variety of buttons of the screen, I will go into some depth concerni
 Tabbed Panes - The buttons in the upper left hand corner, switches between the views
 Shift Up - Button to the left of the PlayList, shifts the song up.
 Shift Down - Button to the left of the PlayList, shifts the song down.
-Add Song - Brings up a pop up window that allows you to pick the location of the song, then you have to input title, artist, and length
-  If left blank, will set Title and Artist as untitled, and sets the time of the song as the length of the .wav file.
+Add Song - Brings up a pop up window that allows you to pick the location of the song, then you have to input title, artist, and length. If left blank, will set Title and Artist as untitled, and sets the time of the song as the length of the .wav file.
 Remove Song - Removes a song from the List, after prompting the user if they are sure
 Save Playlist - Brings up a window that allows the user to choose where they want to save the file
 Load Playlist - Brings up a window that allows the user to choose a playlist to load, with exception handling
