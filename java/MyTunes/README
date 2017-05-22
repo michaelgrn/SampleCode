@@ -29,6 +29,8 @@ Then run the program by typing:
 
 java MyTunesDriver
 
+Also this program can be run in an IDE by ensuring all the folders and files are in the same folder and MyTunesDriver.java is compiled/ran.
+
 Instructions:
 
 There are a variety of buttons of the screen, I will go into some depth concerning their functionality
