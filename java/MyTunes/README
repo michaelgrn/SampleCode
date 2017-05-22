@@ -1,1 +1,50 @@
 README
+
+MyTunes
+
+Overview: This is a .wav player with a wide range of functionality. It has three different views view a tabbed pane approach,
+Max, mid, and min. Keeps track of the number of times each of the songs is played and implements a heat map in the max view.
+Will go into the usage of each button later on in the README.
+
+Files Contained:
+
+MyTunes.java - Main class that incorporates all GUI elements, is run in the driver class
+MyTunesDriver.java - Class that runs the program
+MyTunesGUIMax.java - The GUI window for the maximized view
+MyTunesGUIMid.java - The GUI window for the scaled view
+MyTunesGUIMin.java - The GUI window for the minimized view
+MyTunesPlayListInterface.java - Interface implemented in the PlayList.java class
+PlayList.java - Heart of the program, holds the list of Song.java, editable 
+Song.java - An object of a song, containing information for each .wav
+images - folder that contains the icon .gifs for the GUI
+sounds - folder that contains all the .wav samples
+playlist.txt - sample playlist
+
+Compilation:
+
+Make sure all the files and folders are in the same folder before compiling the MyTunesDriver.java like:
+
+javac MyTunesDriver.java
+
+Then run the program by typing:
+
+java MyTunesDriver
+
+Also this program can be run in an IDE by ensuring all the folders and files are in the same folder and MyTunesDriver.java is compiled/ran.
+
+Instructions:
+
+There are a variety of buttons of the screen, I will go into some depth concerning their functionality
+
+Tabbed Panes - The buttons in the upper left hand corner, switches between the views
+Shift Up - Button to the left of the PlayList, shifts the song up.
+Shift Down - Button to the left of the PlayList, shifts the song down.
+Add Song - Brings up a pop up window that allows you to pick the location of the song, then you have to input title, artist, and length. If left blank, will set Title and Artist as untitled, and sets the time of the song as the length of the .wav file.
+Remove Song - Removes a song from the List, after prompting the user if they are sure
+Save Playlist - Brings up a window that allows the user to choose where they want to save the file
+Load Playlist - Brings up a window that allows the user to choose a playlist to load, with exception handling
+Stop - Stops the current song playing
+Play - Plays the current song selected
+Fast Forward - Fast fowards to the next song
+Rewind - Rewinds to the previous song
+Song Square - Pressing on any of the song buttons will play the song, if list is empty pressing will do nothing
