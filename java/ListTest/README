@@ -1,1 +1,34 @@
-Read Me
+ReadMe
+
+List Tester
+
+Overview: The point of this project was to write a doubly-linked list from the ground up and then implement a test suite in 
+order to test all the various permutations of the list, as well as the list iterator. Program tests each method for every variation
+of the doubly-linked list.
+
+Files included:
+
+IUDoubleLinkedList.java - Class created from the IndexUnsortedList interface, implemented as a doubly-linked list
+IndexUnsortedList.java - Interface used to create the IUDoubleLinkedList
+LinearNode.java - Nodes that compromise the IUDoubleLinkedList, contains an Element and a pointer to previous and next
+ListTester.java - Performs the battery of tests on the IUDoubleLinkedList
+
+Compilation:
+
+This program is mostly based around ListTester.java, the other classes really meant to be implemented in other programs.
+To run this program in console compile ListTester.java like such
+
+javac ListTester.java
+
+Then run the program
+
+java ListTester
+
+Make sure that all the files are in the same folder. The same process can be run in an IDE through the same means, by running
+ListTester.java
+
+As a note, each test is written the format Name of the list and the method being performed. For example:
+
+AB_listIterPrevAddC_ACB_testContainsC 
+
+The starting list is AB with a list iterator calling previous add C resulting in ACB, and then runs the method of whether it contains C. 
