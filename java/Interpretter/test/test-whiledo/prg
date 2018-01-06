@@ -1,0 +1,1 @@
+x = 1.0; while x < 5.0 do begin wr x; x = x +1.0 end
