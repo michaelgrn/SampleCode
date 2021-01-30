@@ -1,3 +1,7 @@
+## My Contributions
+
+My main Responsibilites for the LITERATE app was implementating a logging system, troubleshooting/updating the UI, resolving previous bugs with API calls. 
+
 # LITERATE Web App
 
 ![alt text](https://github.com/BoiseState/literate-webapp/blob/master/literate-app/public/images/ClassroomLogo.png)
