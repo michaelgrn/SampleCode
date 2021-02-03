@@ -12,4 +12,4 @@ https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied
 
 and move the .csv into the A5 folder in order to rerun the code.
 
-*A6* is an example of text classification and clustering; as well as analysis of both of those processes.
+*A6* is an example of text classification and clustering; with a detailed analysis of both those processes.
