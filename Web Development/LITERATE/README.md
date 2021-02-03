@@ -1,6 +1,6 @@
 ## My Contributions
 
-My main Responsibilites for the LITERATE app was implementating a logging system, troubleshooting/updating the UI, resolving previous bugs with API calls. 
+My main Responsibilites for the LITERATE app was implementating a logging system, troubleshooting/updating the UI, resolving previous bugs with API calls. This code can be found in literate-app/js/postgres.factory.js (for logging),  /literate-app/routes/index.js (logging and cookie writing code), and /literate-app/views/search.vue (code for logging).
 
 # LITERATE Web App
 
