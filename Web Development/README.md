@@ -3,6 +3,7 @@
 The following links are websites that I have developed on my own:
 
 https://solepera.github.io
+
 https://kidrec.github.io/2019/
 
 And websites created and maintained with a team:
