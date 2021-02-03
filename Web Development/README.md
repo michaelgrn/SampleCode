@@ -9,5 +9,6 @@ And websites created and maintained with a team:
 
 https://piret.info/
 
-Further more, the LITERATE folder contains code for a research driven web app that I contributed to. Further details can be seen in the folder.
+The LITERATE folder contains code for a research driven web app that I contributed to. 
+Further details can be seen there.
 
