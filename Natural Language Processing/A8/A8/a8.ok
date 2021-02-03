@@ -1,0 +1,15 @@
+{
+  "name": "A8 Machine Translation with Keras",
+  "endpoint": "boisestate/cs4-533/sp19/a8",
+  "src": [
+    "A8-machine-translation-keras.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "submit"
+  ]
+}
