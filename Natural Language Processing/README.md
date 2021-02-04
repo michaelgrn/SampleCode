@@ -2,11 +2,11 @@
 
 All code is this directory are examples of code that focus on Natural Language Processing. The code is written in Python 3 using Jupyter Notebook.
 
-***A3*** contains hand written Hidden Markov Models, the first being a greedy algorithm, the second being viterbi.
+***NLP1*** contains hand written Hidden Markov Models, the first being a greedy algorithm, the second being viterbi.
 
-***A4*** contains code that creates a grammar from several sentences of a made up language, then tests that grammar on new input.
+***NLP2*** contains code intended to create a grammar from several sentences of a made up language; who's efficacy is then tested on further input.
 
-***A8*** is an example of machine translation using keras.
+***NLP3*** is an example of machine translation from English to German using deep learning and evaluated with the BLEU metric.
 
-***Project*** is a collaborative effort between Mucun Tian and I, where we use deep learning models to generate text which we then perform text simplification on.
+***NLPProject*** is a collaborative effort between Mucun Tian and I, employing deep learning models to generate text. This text is then simplified using text simplification techniques, and tested using readability metrics.
 
