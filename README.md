@@ -4,8 +4,8 @@ In this respository you will find examples of some of the code that I have writt
 
 * Data Science: This code involves the analysis of Data, in terms of describing the Data, selecting features, and performing classification.
 * Machine Learning: This code focuses on the writing of Machine Learning algorithms as well as the usage of these algorithms via libraries.
+* Natural Language Processing: Code that focuses exclusively on NLP concepts, such generating text and machine translation.
 * Operating Systems: Code in this section deals with low level code but also includes data structures designed to be employed at low levels as well.
-* Web Development: Websites that I have helped to create.
-* Natural Language Processing: Code that focuses on handling and generating text.
+* Web Development: Websites that I have helped to create and maintain.
 
 
