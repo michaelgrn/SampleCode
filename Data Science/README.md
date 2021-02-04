@@ -10,6 +10,6 @@ from
 
 https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied 
 
-and move the .csv into the A5 folder in order to rerun the code.
+and move the .csv into the ***DS1*** folder in order to rerun the code.
 
 ***DS2*** is an example of text classification and clustering; with a detailed analysis of both those processes.
