@@ -1,3 +1,5 @@
+# MyDash
+
 In order to execute this code type:
 
 make
@@ -10,4 +12,5 @@ to run an instance of this shell. Further instances of MyDash can be run inside 
 
 ./mydash
 
-again.
+again. 
+
