@@ -4,8 +4,7 @@
 
 The following links are websites that I have developed on my own:
 
-https://solepera.github.io
-
+https://solepera.github.io <br/>
 https://kidrec.github.io/2019/
 
 And websites I maintain with a team:
