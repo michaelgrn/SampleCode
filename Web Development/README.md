@@ -1,15 +1,16 @@
 # Web Development
 
+***LITERATE*** contains code for a research driven web app designed to retrieve materials suitable to children based on readability and word count. Further details for my contribution to this project can be found in folder.
+
 The following links are websites that I have developed on my own:
 
 https://solepera.github.io
 
 https://kidrec.github.io/2019/
 
-And websites created and maintained with a team:
+And websites I maintain with a team:
 
 https://piret.info/
 
-The LITERATE folder contains code for a research driven web app that I contributed to. 
-Further details can be seen there.
+
 
