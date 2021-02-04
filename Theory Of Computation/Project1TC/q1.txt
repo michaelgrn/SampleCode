@@ -1,9 +1,0 @@
-2
-S->aSb
-S->!
-ab
-aabb
-!
-aaaabbbb
-ababa
-bbaaa
