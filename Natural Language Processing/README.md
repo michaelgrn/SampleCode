@@ -4,7 +4,7 @@ All code is this directory are examples of code that focus on Natural Language P
 
 ***NLP1*** contains hand written Hidden Markov Models, the first being a greedy algorithm, the second being viterbi.
 
-***NLP2*** contains code intended to create a grammar from several sentences of a made up language; who's efficacy is then tested on further input.
+***NLP2*** contains code intended to create a grammar from several sentences of a made up language; who's efficacy is then tested on further input.
 
 ***NLP3*** is an example of machine translation from English to German using deep learning and evaluated with the BLEU metric.
 
