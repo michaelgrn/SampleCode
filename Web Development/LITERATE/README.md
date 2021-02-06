@@ -1,8 +1,11 @@
-# LITERATE Web App
+# Examples of my code
 
-![alt text](https://github.com/BoiseState/literate-webapp/blob/master/literate-app/public/images/ClassroomLogo.png)
+In this respository you will find examples of some of the code that I have written through out my collegiate career. Some of this work has been done in groups, and some has been written solitarily. I have chosen to group the examples based on high level ideas. These categories include:
 
-## My Contributions
+* Data Science: This code involves the analysis of Data, in terms of describing the Data, selecting features, and performing classification.
+* Machine Learning: Code in this folder focuses on the writing of Machine Learning algorithms as well as the usage of these algorithms via libraries.
+* Natural Language Processing: Code that focuses exclusively on NLP concepts, such generating text and machine translation.
+* Operating Systems: This section deals with low level code but also includes data structures designed to be employed at low levels as well.
+* Web Development: Websites that I have helped to develop and maintain.
 
-My main Responsibilites for the LITERATE app was implementating a logging system, troubleshooting/updating the UI, and resolving previous bugs with API calls. This code can be found in literate-app/js/postgres.factory.js (for logging),  /literate-app/routes/index.js (logging and cookie writing code), and /literate-app/views/search.vue (code for logging). I further created a database to store this logging information, the schema seen in /database-creation.
 
